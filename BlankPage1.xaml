@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="App5.BlankPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App5"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:Maps="using:Windows.UI.Xaml.Controls.Maps"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Stretch"
+                Margin="8,8,8,8" VerticalAlignment="Stretch" >
+            <TextBlock TextWrapping="NoWrap" Text="Map control"
+                   FontSize="36" Margin="8,0,0,16"/>
+            <Maps:MapControl
+                
+            x:Name="MapControl1"
+            MapServiceToken="2tzWTgcBejhgNJ1Q41qE~E4Gk9-rx2dIWIiIU15gWWg~AuJ_SdpG6W5war7nL3DNzQj61u5C5DFxB8UnWX2sOW2GuC0GJ9-_E4JfYphqTIqj"
+            Height="560" 
+            Margin="0,0,0,0"/>
+           
+            
+            <Button Content="New Search"  Click="Button_Click" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+
+
+        </StackPanel>
+    </Grid>
+</Page>

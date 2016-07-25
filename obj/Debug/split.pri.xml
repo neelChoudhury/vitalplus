@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="addcb689-a02f-443f-b155-da893d22a69b" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://addcb689-a02f-443f-b155-da893d22a69b/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="App5.xr.xml" uri="ms-resource://addcb689-a02f-443f-b155-da893d22a69b/Files/App5.xr.xml">
+				<Candidate type="Path">
+					<Value>App5.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BlankPage1.xbf" uri="ms-resource://addcb689-a02f-443f-b155-da893d22a69b/Files/BlankPage1.xbf">
+				<Candidate type="Path">
+					<Value>BlankPage1.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://addcb689-a02f-443f-b155-da893d22a69b/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="1275.jpg" uri="ms-resource://addcb689-a02f-443f-b155-da893d22a69b/Files/Assets/1275.jpg">
+					<Candidate type="Path">
+						<Value>Assets\1275.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="imageedit_2_6966925632.gif" uri="ms-resource://addcb689-a02f-443f-b155-da893d22a69b/Files/Assets/imageedit_2_6966925632.gif">
+					<Candidate type="Path">
+						<Value>Assets\imageedit_2_6966925632.gif</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="imageedit_3_8668062344.gif" uri="ms-resource://addcb689-a02f-443f-b155-da893d22a69b/Files/Assets/imageedit_3_8668062344.gif">
+					<Candidate type="Path">
+						<Value>Assets\imageedit_3_8668062344.gif</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://addcb689-a02f-443f-b155-da893d22a69b/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://addcb689-a02f-443f-b155-da893d22a69b/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://addcb689-a02f-443f-b155-da893d22a69b/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://addcb689-a02f-443f-b155-da893d22a69b/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://addcb689-a02f-443f-b155-da893d22a69b/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://addcb689-a02f-443f-b155-da893d22a69b/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

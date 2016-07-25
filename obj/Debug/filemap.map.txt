@@ -1,0 +1,20 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-240"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"C:\Users\sushrut\documents\visual studio 2013\Projects\App5\App5\obj\Debug\filemap.pri"			"resources.pri"
+"C:\Users\sushrut\documents\visual studio 2013\Projects\App5\App5\obj\Debug\PackageLayout\MainPage.xbf"			"MainPage.xbf"
+"C:\Users\sushrut\documents\visual studio 2013\Projects\App5\App5\obj\Debug\PackageLayout\BlankPage1.xbf"			"BlankPage1.xbf"
+"C:\Users\sushrut\documents\visual studio 2013\Projects\App5\App5\obj\Debug\PackageLayout\App5.xr.xml"			"App5.xr.xml"
+"C:\Users\sushrut\documents\visual studio 2013\Projects\App5\App5\obj\Debug\PackageLayout\App5.exe"			"App5.exe"
+"C:\Users\sushrut\documents\visual studio 2013\Projects\App5\App5\obj\Debug\PackageLayout\App.xbf"			"App.xbf"
+"C:\Users\sushrut\documents\visual studio 2013\Projects\App5\App5\obj\Debug\PackageLayout\Assets\WideLogo.scale-240.png"			"Assets\WideLogo.scale-240.png"
+"C:\Users\sushrut\documents\visual studio 2013\Projects\App5\App5\obj\Debug\PackageLayout\Assets\StoreLogo.scale-240.png"			"Assets\StoreLogo.scale-240.png"
+"C:\Users\sushrut\documents\visual studio 2013\Projects\App5\App5\obj\Debug\PackageLayout\Assets\Square71x71Logo.scale-240.png"			"Assets\Square71x71Logo.scale-240.png"
+"C:\Users\sushrut\documents\visual studio 2013\Projects\App5\App5\obj\Debug\PackageLayout\Assets\SplashScreen.scale-240.png"			"Assets\SplashScreen.scale-240.png"
+"C:\Users\sushrut\documents\visual studio 2013\Projects\App5\App5\obj\Debug\PackageLayout\Assets\SmallLogo.scale-240.png"			"Assets\SmallLogo.scale-240.png"
+"C:\Users\sushrut\documents\visual studio 2013\Projects\App5\App5\obj\Debug\PackageLayout\Assets\Logo.scale-240.png"			"Assets\Logo.scale-240.png"
+"C:\Users\sushrut\documents\visual studio 2013\Projects\App5\App5\obj\Debug\PackageLayout\Assets\imageedit_3_8668062344.gif"			"Assets\imageedit_3_8668062344.gif"
+"C:\Users\sushrut\documents\visual studio 2013\Projects\App5\App5\obj\Debug\PackageLayout\Assets\imageedit_2_6966925632.gif"			"Assets\imageedit_2_6966925632.gif"
+"C:\Users\sushrut\documents\visual studio 2013\Projects\App5\App5\obj\Debug\PackageLayout\Assets\1275.jpg"			"Assets\1275.jpg"

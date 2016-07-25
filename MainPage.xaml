@@ -1,0 +1,55 @@
+﻿<Page
+    x:Class="App5.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App5"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+
+        <Grid.Background>
+            <ImageBrush Stretch="UniformToFill" ImageSource="Assets/imageedit_2_6966925632.gif"/>
+        </Grid.Background>
+        <ScrollViewer>
+
+            <Grid>
+                <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="10,10,0,0" Width="290" Height="74" FontSize="60" Foreground="#FF727272" FontFamily="Segoe WP SemiLight"  FontWeight="Bold">
+                Vital +
+                </TextBlock>
+
+                <TextBox Name="med" Height="49" TextWrapping="Wrap" Margin="130,119,29,0" Background="White" Foreground="#FF484F61" FontSize="24"/>
+                <Grid HorizontalAlignment="Left" Height="373" VerticalAlignment="Top" Width="380" Margin="11,257,0,0"/>
+                <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="10,119,0,0" Width="120" Height="49" FontSize="20" Foreground="#FF575757" FontFamily="Segoe WP Semibold">
+                	<Run FontSize="26.667" Text="Medicine"/>
+                	<Run Text=":"/>
+                </TextBlock>
+
+
+                <Button Name="b1" Content="Get Med" HorizontalAlignment="Center" Click="Track_Click" VerticalAlignment="Top" Margin="0,186,0,0" Width="389" Background="#FF3099D4" RenderTransformOrigin="0.5,1.187" Height="81" FontSize="24" />
+                <TextBlock Name="avlb" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="5,280,0,0" Width="395" Height="65" FontSize="22" Foreground="#FF575757" FontFamily="Segoe WP Semibold"  Text="Your medicine is available at these locations. Click to see on map:"/>
+                
+
+                <Button Click="rb1_Click" Name="rb1" Content="Button" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,360,0,0" Width="440" Background="#FF00C1A7" BorderBrush="White" Height="120" FontSize="26.667"/>
+
+
+                <Button Click="rb1_Click" Name="rb2"  Content="Button" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,480,0,0" Width="440" Background="#FF00C1A7" BorderBrush="White" Height="120" FontSize="26.667"/>
+                <Button Click="rb1_Click" Name="rb3"  Content="Button" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,600,0,0" Width="440" Background="#FF00C1A7" BorderBrush="White" Height="120" FontSize="26.667"/>
+                <Button Click="rb1_Click" Name="rb4"  Content="Button" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,720,0,0" Width="440" Background="#FF00C1A7" BorderBrush="White" Height="120" FontSize="26.667"/>
+                <Button Click="rb1_Click" Name="rb5"   Content="Button" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,840,0,0" Width="440" Background="#FF00C1A7" BorderBrush="White" Height="120" FontSize="26.667"/>
+                <Button Click="rb1_Click" Name="rb6"   Content="Button" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,960,0,0" Width="440" Background="#FF00C1A7" BorderBrush="White" Height="120" FontSize="26.667"/>
+                <Button Click="rb1_Click" Name="rb7"   Content="Button" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,1080,0,0" Width="440" Background="#FF00C1A7" BorderBrush="White" Height="120" RenderTransformOrigin="0.516,1.315" FontSize="26.667"/>
+                <Button Click="rb1_Click" Name="rb8"   Content="Button" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,1200,0,0" Width="440" Background="#FF00C1A7" BorderBrush="White" Height="120" FontSize="26.667"/>
+                <Button Click="rb1_Click" Name="rb9"   Content="Button" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,1320,0,0" Width="440" Background="#FF00C1A7" BorderBrush="White" Height="120" FontSize="26.667"/>
+                <Button Click="rb1_Click" Name="rb10"   Content="Button" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,1440,0,0" Width="440" Background="#FF00C1A7" BorderBrush="White" Height="120" FontSize="26.667"/>
+
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+
+</Page>
+
+    
+    
